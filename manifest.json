@@ -3,6 +3,7 @@
   "name": "Page Count",
   "version": "0.1.2",
   "description": "Adds the current note's page count (with one decimal place) to Obsidian's status bar.",
+  "author": "Ash Cull",
   "isDesktopOnly": false,
   "js": "main.js"
 }
