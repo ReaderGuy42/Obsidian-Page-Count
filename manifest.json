@@ -1,9 +1,8 @@
 {
-  "id": "obsidian-Page-Count",
+  "id": "obsidian-page-count",
   "name": "Page Count",
-  "version": "0.1.2",
-  "description": "Adds the current note's page count (with one decimal place) to Obsidian's status bar.",
-  "author": "Ash Cull",
-  "isDesktopOnly": true,
+  "version": "0.2.0",
+  "description": "Add the current note's page length to Obsidian's status bar.",
+  "isDesktopOnly": false,
   "js": "main.js"
 }
