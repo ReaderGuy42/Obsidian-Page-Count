@@ -2,6 +2,8 @@ Based on AVR's Reading Time Plugin (https://github.com/avr/obsidian-reading-time
 
 Plugin for Obsidian.md that shows a page count in the status bar. 
 After installing you need to restart Obsidian for the status bar function to start working.
+
+
 ![example](https://user-images.githubusercontent.com/71895400/144223260-d1110ca2-a6af-4049-81aa-055307230c78.png)
 
 
